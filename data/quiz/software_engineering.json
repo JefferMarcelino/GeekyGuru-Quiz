@@ -1,0 +1,5364 @@
+{
+  "category": "Software Development",
+  "questions": [{
+      "explanation": "A set of principles and values for software development that emphasizes flexibility, collaboration, and iterative progress.",
+      "options": [{
+          "answer": "Agile",
+          "isCorrect": true
+        },
+        {
+          "answer": "Waterfall",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scrum",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kanban",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A step-by-step procedure or formula for solving a problem or accomplishing a task.",
+      "options": [{
+          "answer": "Algorithm",
+          "isCorrect": true
+        },
+        {
+          "answer": "Abstraction",
+          "isCorrect": false
+        },
+        {
+          "answer": "Heuristic",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pseudocode",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of rules and protocols that allows software applications to communicate with each other.",
+      "options": [{
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": true
+        },
+        {
+          "answer": "SDK (Software Development Kit)",
+          "isCorrect": false
+        },
+        {
+          "answer": "URL (Uniform Resource Locator)",
+          "isCorrect": false
+        },
+        {
+          "answer": "IDE (Integrated Development Environment)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A data structure that stores a fixed-size sequential collection of elements of the same type.",
+      "options": [{
+          "answer": "Array",
+          "isCorrect": true
+        },
+        {
+          "answer": "List",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tuple",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dictionary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A field of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence.",
+      "options": [{
+          "answer": "Artificial Intelligence (AI)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Machine Learning",
+          "isCorrect": false
+        },
+        {
+          "answer": "Computer Vision",
+          "isCorrect": false
+        },
+        {
+          "answer": "Natural Language Processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A character encoding standard that assigns unique numeric codes to represent characters from various writing systems.",
+      "options": [{
+          "answer": "ASCII (American Standard Code for Information Interchange)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Unicode",
+          "isCorrect": false
+        },
+        {
+          "answer": "UTF-8",
+          "isCorrect": false
+        },
+        {
+          "answer": "ISO-8859-1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A low-level programming language that uses mnemonic codes to represent machine instructions.",
+      "options": [{
+          "answer": "Assembly language",
+          "isCorrect": true
+        },
+        {
+          "answer": "High-level language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scripting language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Markup language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A statement that verifies the correctness of a condition or value.",
+      "options": [{
+          "answer": "Assertion",
+          "isCorrect": true
+        },
+        {
+          "answer": "Validation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Exception",
+          "isCorrect": false
+        },
+        {
+          "answer": "Verification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The server-side of a client-server architecture where the logic and processing of an application reside.",
+      "options": [{
+          "answer": "Back-end",
+          "isCorrect": true
+        },
+        {
+          "answer": "Front-end",
+          "isCorrect": false
+        },
+        {
+          "answer": "Full-stack",
+          "isCorrect": false
+        },
+        {
+          "answer": "Middleware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A term used to describe extremely large and complex datasets that cannot be easily managed and processed using traditional methods.",
+      "options": [{
+          "answer": "Big Data",
+          "isCorrect": true
+        },
+        {
+          "answer": "Small Data",
+          "isCorrect": false
+        },
+        {
+          "answer": "Medium Data",
+          "isCorrect": false
+        },
+        {
+          "answer": "Large Data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A base-2 numeral system in which numeric values are represented using only two symbols: 0 and 1.",
+      "options": [{
+          "answer": "Binary",
+          "isCorrect": true
+        },
+        {
+          "answer": "Decimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hexadecimal",
+          "isCorrect": false
+        },
+        {
+          "answer": "Octal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The smallest unit of data in computing, representing either a 0 or 1.",
+      "options": [{
+          "answer": "Bit",
+          "isCorrect": true
+        },
+        {
+          "answer": "Byte",
+          "isCorrect": false
+        },
+        {
+          "answer": "Nibble",
+          "isCorrect": false
+        },
+        {
+          "answer": "Megabyte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A distributed ledger technology that allows multiple parties to have a shared, immutable record of transactions.",
+      "options": [{
+          "answer": "Blockchain",
+          "isCorrect": true
+        },
+        {
+          "answer": "Database",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cryptocurrency",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hashing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A data type that represents one of two possible truth values: true or false.",
+      "options": [{
+          "answer": "Boolean",
+          "isCorrect": true
+        },
+        {
+          "answer": "Numeric",
+          "isCorrect": false
+        },
+        {
+          "answer": "Character",
+          "isCorrect": false
+        },
+        {
+          "answer": "String",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An error or defect in a software program that prevents it from functioning as intended.",
+      "options": [{
+          "answer": "Bug",
+          "isCorrect": true
+        },
+        {
+          "answer": "Feature",
+          "isCorrect": false
+        },
+        {
+          "answer": "Issue",
+          "isCorrect": false
+        },
+        {
+          "answer": "Glitch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A unit of digital information storage, typically consisting of 8 bits.",
+      "options": [{
+          "answer": "Byte",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kilobyte",
+          "isCorrect": false
+        },
+        {
+          "answer": "Megabyte",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gigabyte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A hardware or software component that stores data to reduce the amount of time it takes to fetch the data from the main memory.",
+      "options": [{
+          "answer": "Cache",
+          "isCorrect": true
+        },
+        {
+          "answer": "Stack",
+          "isCorrect": false
+        },
+        {
+          "answer": "Heap",
+          "isCorrect": false
+        },
+        {
+          "answer": "Register",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A blueprint or template for creating objects that define their properties and behaviors.",
+      "options": [{
+          "answer": "Class",
+          "isCorrect": true
+        },
+        {
+          "answer": "Object",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interface",
+          "isCorrect": false
+        },
+        {
+          "answer": "Module",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A method of delivering computing services over the internet on-demand, such as storage, processing power, and databases.",
+      "options": [{
+          "answer": "Cloud computing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Fog computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Edge computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Grid computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Instructions or commands written by a programmer in a programming language.",
+      "options": [{
+          "answer": "Code",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data",
+          "isCorrect": false
+        },
+        {
+          "answer": "Algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A program that translates source code written in a high-level language into machine code that can be executed by a computer.",
+      "options": [{
+          "answer": "Compiler",
+          "isCorrect": true
+        },
+        {
+          "answer": "Interpreter",
+          "isCorrect": false
+        },
+        {
+          "answer": "Assembler",
+          "isCorrect": false
+        },
+        {
+          "answer": "Linker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A reusable and self-contained piece of software that encapsulates a specific functionality or set of behaviors.",
+      "options": [{
+          "answer": "Component",
+          "isCorrect": true
+        },
+        {
+          "answer": "Module",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        },
+        {
+          "answer": "Package",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The practice of securing communication and information by transforming it into an unreadable format using encryption techniques.",
+      "options": [{
+          "answer": "Cryptography",
+          "isCorrect": true
+        },
+        {
+          "answer": "Authentication",
+          "isCorrect": false
+        },
+        {
+          "answer": "Authorization",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integrity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A style sheet language used for describing the presentation and layout of a document written in HTML.",
+      "options": [{
+          "answer": "CSS (Cascading Style Sheets)",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL (Structured Query Language)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A structured collection of data that is organized and accessible in various ways.",
+      "options": [{
+          "answer": "Database",
+          "isCorrect": true
+        },
+        {
+          "answer": "Table",
+          "isCorrect": false
+        },
+        {
+          "answer": "File",
+          "isCorrect": false
+        },
+        {
+          "answer": "Record",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of identifying, fixing, and removing errors, bugs, or malfunctions in a software program.",
+      "options": [{
+          "answer": "Debugging",
+          "isCorrect": true
+        },
+        {
+          "answer": "Testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Profiling",
+          "isCorrect": false
+        },
+        {
+          "answer": "Optimization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The act of declaring a variable by specifying its name and data type before it is used in a program.",
+      "options": [{
+          "answer": "Declaration",
+          "isCorrect": true
+        },
+        {
+          "answer": "Initialization",
+          "isCorrect": false
+        },
+        {
+          "answer": "Assignment",
+          "isCorrect": false
+        },
+        {
+          "answer": "Definition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A relationship between two software components in which one component depends on the other to function correctly.",
+      "options": [{
+          "answer": "Dependency",
+          "isCorrect": true
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        },
+        {
+          "answer": "Aggregation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Composition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A general reusable solution to a commonly occurring problem in software design.",
+      "options": [{
+          "answer": "Design pattern",
+          "isCorrect": true
+        },
+        {
+          "answer": "Algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Framework",
+          "isCorrect": false
+        },
+        {
+          "answer": "Methodology",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and deliver software faster and more reliably.",
+      "options": [{
+          "answer": "DevOps (Development and Operations)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Agile",
+          "isCorrect": false
+        },
+        {
+          "answer": "Waterfall",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scrum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A hierarchical decentralized naming system that translates domain names (e.g., www.example.com) to IP addresses.",
+      "options": [{
+          "answer": "DNS (Domain Name System)",
+          "isCorrect": true
+        },
+        {
+          "answer": "DHCP (Dynamic Host Configuration Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "FTP (File Transfer Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "HTTP (Hypertext Transfer Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A platform that enables developers to build, package, distribute, and run applications and services using containers.",
+      "options": [{
+          "answer": "Docker",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kubernetes",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ansible",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vagrant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A written or visual representation of how to use, operate, maintain, or troubleshoot a system or software.",
+      "options": [{
+          "answer": "Documentation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Specification",
+          "isCorrect": false
+        },
+        {
+          "answer": "Manual",
+          "isCorrect": false
+        },
+        {
+          "answer": "Guide",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An approach to software development that focuses on the core domain of a problem, aligning the implementation closely with the business requirements.",
+      "options": [{
+          "answer": "Domain-driven design (DDD)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Test-driven development (TDD)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Behavior-driven development (BDD)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Model-driven development (MDD)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An integrated development environment (IDE) widely used for Java programming.",
+      "options": [{
+          "answer": "Eclipse",
+          "isCorrect": true
+        },
+        {
+          "answer": "IntelliJ IDEA",
+          "isCorrect": false
+        },
+        {
+          "answer": "NetBeans",
+          "isCorrect": false
+        },
+        {
+          "answer": "Visual Studio Code",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of converting plaintext into ciphertext to secure it from unauthorized access or use.",
+      "options": [{
+          "answer": "Encryption",
+          "isCorrect": true
+        },
+        {
+          "answer": "Decryption",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hashing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Signing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A specific URL or URI that an API exposes to enable communication and interaction with the underlying software or system.",
+      "options": [{
+          "answer": "Endpoint",
+          "isCorrect": true
+        },
+        {
+          "answer": "Route",
+          "isCorrect": false
+        },
+        {
+          "answer": "Service",
+          "isCorrect": false
+        },
+        {
+          "answer": "Method",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A data type that consists of a set of named values, where each value represents a unique constant.",
+      "options": [{
+          "answer": "Enumeration",
+          "isCorrect": true
+        },
+        {
+          "answer": "Array",
+          "isCorrect": false
+        },
+        {
+          "answer": "Struct",
+          "isCorrect": false
+        },
+        {
+          "answer": "Union",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of detecting, handling, and recovering from errors or exceptional situations that occur during the execution of a program.",
+      "options": [{
+          "answer": "Error handling",
+          "isCorrect": true
+        },
+        {
+          "answer": "Exception handling",
+          "isCorrect": false
+        },
+        {
+          "answer": "Fault handling",
+          "isCorrect": false
+        },
+        {
+          "answer": "Failure handling",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+      "options": [{
+          "answer": "Firewall",
+          "isCorrect": true
+        },
+        {
+          "answer": "Proxy",
+          "isCorrect": false
+        },
+        {
+          "answer": "Router",
+          "isCorrect": false
+        },
+        {
+          "answer": "Switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of tools, libraries, and best practices that provide a foundation for developing software applications.",
+      "options": [{
+          "answer": "Framework",
+          "isCorrect": true
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        },
+        {
+          "answer": "Platform",
+          "isCorrect": false
+        },
+        {
+          "answer": "Toolkit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The part of a software system or application that is directly accessed and used by the user.",
+      "options": [{
+          "answer": "Front-end",
+          "isCorrect": true
+        },
+        {
+          "answer": "Back-end",
+          "isCorrect": false
+        },
+        {
+          "answer": "Middleware",
+          "isCorrect": false
+        },
+        {
+          "answer": "Database",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A named block of code that performs a specific task and can be invoked (called) from other parts of the program.",
+      "options": [{
+          "answer": "Function",
+          "isCorrect": true
+        },
+        {
+          "answer": "Method",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedure",
+          "isCorrect": false
+        },
+        {
+          "answer": "Subroutine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A distributed version control system widely used for source code management and collaboration in software development.",
+      "options": [{
+          "answer": "Git",
+          "isCorrect": true
+        },
+        {
+          "answer": "SVN (Subversion)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mercurial",
+          "isCorrect": false
+        },
+        {
+          "answer": "Perforce",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A user interface that allows users to interact with electronic devices through graphical icons and visual indicators.",
+      "options": [{
+          "answer": "GUI (Graphical User Interface)",
+          "isCorrect": true
+        },
+        {
+          "answer": "CLI (Command Line Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "TUI (Text-based User Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "NUI (Natural User Interface)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A markup language used for structuring and presenting content on the World Wide Web.",
+      "options": [{
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CSS (Cascading Style Sheets)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A protocol used for transmitting hypertext (web) pages over the internet.",
+      "options": [{
+          "answer": "HTTP (Hypertext Transfer Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTTPS (Hypertext Transfer Protocol Secure)",
+          "isCorrect": false
+        },
+        {
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "FTP (File Transfer Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software application that provides comprehensive facilities for computer programming, editing, and debugging.",
+      "options": [{
+          "answer": "IDE (Integrated Development Environment)",
+          "isCorrect": true
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SDK (Software Development Kit)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CMS (Content Management System)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A mechanism by which one class inherits the properties (methods and fields) of another class.",
+      "options": [{
+          "answer": "Inheritance",
+          "isCorrect": true
+        },
+        {
+          "answer": "Encapsulation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A data type that represents a whole number without any fractional or decimal part.",
+      "options": [{
+          "answer": "Integer",
+          "isCorrect": true
+        },
+        {
+          "answer": "Float",
+          "isCorrect": false
+        },
+        {
+          "answer": "Double",
+          "isCorrect": false
+        },
+        {
+          "answer": "Long",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming construct that defines a set of methods that a class must implement.",
+      "options": [{
+          "answer": "Interface",
+          "isCorrect": true
+        },
+        {
+          "answer": "Abstract class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Base class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Derived class",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A network of physical objects embedded with sensors, software, and other technologies to enable the exchange of data and automation of tasks.",
+      "options": [{
+          "answer": "IoT (Internet of Things)",
+          "isCorrect": true
+        },
+        {
+          "answer": "AI (Artificial Intelligence)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ML (Machine Learning)",
+          "isCorrect": false
+        },
+        {
+          "answer": "AR (Augmented Reality)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.",
+      "options": [{
+          "answer": "IP address",
+          "isCorrect": true
+        },
+        {
+          "answer": "MAC address",
+          "isCorrect": false
+        },
+        {
+          "answer": "URL (Uniform Resource Locator)",
+          "isCorrect": false
+        },
+        {
+          "answer": "URI (Uniform Resource Identifier)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of repeating a set of instructions or steps in a program until a specific condition is met or a termination criteria is satisfied.",
+      "options": [{
+          "answer": "Iteration",
+          "isCorrect": true
+        },
+        {
+          "answer": "Recursion",
+          "isCorrect": false
+        },
+        {
+          "answer": "Looping",
+          "isCorrect": false
+        },
+        {
+          "answer": "Iteration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A popular general-purpose programming language known for its simplicity, versatility, and compatibility.",
+      "options": [{
+          "answer": "Java",
+          "isCorrect": true
+        },
+        {
+          "answer": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "C++",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A versatile programming language commonly used for web development and client-side scripting.",
+      "options": [{
+          "answer": "JavaScript",
+          "isCorrect": true
+        },
+        {
+          "answer": "Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "C#",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An open-source automation server widely used for continuous integration and continuous delivery (CI/CD) of software projects.",
+      "options": [{
+          "answer": "Jenkins",
+          "isCorrect": true
+        },
+        {
+          "answer": "CircleCI",
+          "isCorrect": false
+        },
+        {
+          "answer": "Travis CI",
+          "isCorrect": false
+        },
+        {
+          "answer": "TeamCity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A lightweight data interchange format commonly used for transmitting data between a server and a web application.",
+      "options": [{
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": true
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "YAML (YAML Ain't Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CSV (Comma-Separated Values)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A virtual machine that executes Java bytecode, enabling Java programs to run on any platform that has a JVM implementation.",
+      "options": [{
+          "answer": "JVM (Java Virtual Machine)",
+          "isCorrect": true
+        },
+        {
+          "answer": "CLR (Common Language Runtime)",
+          "isCorrect": false
+        },
+        {
+          "answer": "PVM (Python Virtual Machine)",
+          "isCorrect": false
+        },
+        {
+          "answer": "V8 (JavaScript Engine)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A feature in programming languages that allows the creation of anonymous functions or functions without a defined name.",
+      "options": [{
+          "answer": "Lambda function",
+          "isCorrect": true
+        },
+        {
+          "answer": "Callback function",
+          "isCorrect": false
+        },
+        {
+          "answer": "Inline function",
+          "isCorrect": false
+        },
+        {
+          "answer": "Delegate function",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A collection of precompiled and reusable code that can be used by multiple programs or modules.",
+      "options": [{
+          "answer": "Library",
+          "isCorrect": true
+        },
+        {
+          "answer": "Framework",
+          "isCorrect": false
+        },
+        {
+          "answer": "Package",
+          "isCorrect": false
+        },
+        {
+          "answer": "Component",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A linear data structure in which elements are linked together using pointers or references.",
+      "options": [{
+          "answer": "LinkedList",
+          "isCorrect": true
+        },
+        {
+          "answer": "ArrayList",
+          "isCorrect": false
+        },
+        {
+          "answer": "Stack",
+          "isCorrect": false
+        },
+        {
+          "answer": "Queue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An open-source operating system kernel based on the Unix operating system.",
+      "options": [{
+          "answer": "Linux",
+          "isCorrect": true
+        },
+        {
+          "answer": "Windows",
+          "isCorrect": false
+        },
+        {
+          "answer": "macOS",
+          "isCorrect": false
+        },
+        {
+          "answer": "Android",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A field of study and practice that focuses on the development of algorithms and statistical models that enable computer systems to learn and improve from experience.",
+      "options": [{
+          "answer": "Machine learning",
+          "isCorrect": true
+        },
+        {
+          "answer": "Artificial Intelligence (AI)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data science",
+          "isCorrect": false
+        },
+        {
+          "answer": "Deep learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A large, powerful, and expensive computer used mainly by large organizations for critical applications and bulk data processing.",
+      "options": [{
+          "answer": "Mainframe",
+          "isCorrect": true
+        },
+        {
+          "answer": "Supercomputer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Minicomputer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Workstation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming model and software framework commonly used for processing and analyzing large volumes of data in a distributed computing environment.",
+      "options": [{
+          "answer": "MapReduce",
+          "isCorrect": true
+        },
+        {
+          "answer": "Hadoop",
+          "isCorrect": false
+        },
+        {
+          "answer": "Spark",
+          "isCorrect": false
+        },
+        {
+          "answer": "NoSQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A situation in which a computer program or system fails to release memory that is no longer needed, causing a gradual reduction in available memory.",
+      "options": [{
+          "answer": "Memory leak",
+          "isCorrect": true
+        },
+        {
+          "answer": "Buffer overflow",
+          "isCorrect": false
+        },
+        {
+          "answer": "Deadlock",
+          "isCorrect": false
+        },
+        {
+          "answer": "Race condition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A named block of code that performs a specific task and can be invoked (called) by name.",
+      "options": [{
+          "answer": "Method",
+          "isCorrect": true
+        },
+        {
+          "answer": "Function",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedure",
+          "isCorrect": false
+        },
+        {
+          "answer": "Subroutine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An architectural style that structures an application as a collection of loosely coupled services that can be independently developed, deployed, and scaled.",
+      "options": [{
+          "answer": "Microservices",
+          "isCorrect": true
+        },
+        {
+          "answer": "Monolithic architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Service-oriented architecture (SOA)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Component-based architecture",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Software that sits between different software applications or components, providing communication and data management services.",
+      "options": [{
+          "answer": "Middleware",
+          "isCorrect": true
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SDK (Software Development Kit)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of developing software applications for mobile devices, such as smartphones and tablets.",
+      "options": [{
+          "answer": "Mobile app development",
+          "isCorrect": true
+        },
+        {
+          "answer": "Web development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Desktop application development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Embedded system development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software architectural pattern commonly used for designing user interfaces, where the application logic is divided into three interconnected components: model, view, and controller.",
+      "options": [{
+          "answer": "Model-View-Controller (MVC)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Model-View-ViewModel (MVVM)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Model-View-Presenter (MVP)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Model-View",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A self-contained unit of functionality that can be independently developed, tested, and deployed.",
+      "options": [{
+          "answer": "Module",
+          "isCorrect": true
+        },
+        {
+          "answer": "Package",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        },
+        {
+          "answer": "Component",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The concurrent execution of multiple threads within a single program.",
+      "options": [{
+          "answer": "Multithreading",
+          "isCorrect": true
+        },
+        {
+          "answer": "Multiprocessing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Multitasking",
+          "isCorrect": false
+        },
+        {
+          "answer": "Parallel computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An open-source relational database management system known for its reliability, scalability, and performance.",
+      "options": [{
+          "answer": "MySQL",
+          "isCorrect": true
+        },
+        {
+          "answer": "PostgreSQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "Oracle Database",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL Server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A mechanism in programming languages that allows the same name to be used for multiple functions or methods with different parameters.",
+      "options": [{
+          "answer": "Overloading",
+          "isCorrect": true
+        },
+        {
+          "answer": "Overriding",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A feature in object-oriented programming that allows a subclass to provide a different implementation of a method that is already defined in its superclass.",
+      "options": [{
+          "answer": "Overriding",
+          "isCorrect": true
+        },
+        {
+          "answer": "Overloading",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A way to organize and group related classes, interfaces, and resources in a program.",
+      "options": [{
+          "answer": "Package",
+          "isCorrect": true
+        },
+        {
+          "answer": "Module",
+          "isCorrect": false
+        },
+        {
+          "answer": "Namespace",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A form of computation in which many calculations or processes are carried out simultaneously.",
+      "options": [{
+          "answer": "Parallel computing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Concurrent computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Distributed computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cluster computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of analyzing a sequence of symbols or characters to determine its grammatical structure or meaning.",
+      "options": [{
+          "answer": "Parsing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Compiling",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interpreting",
+          "isCorrect": false
+        },
+        {
+          "answer": "Lexing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of evaluating the performance or capabilities of a software product under specific conditions.",
+      "options": [{
+          "answer": "Performance testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Acceptance testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A server-side scripting language commonly used for web development.",
+      "options": [{
+          "answer": "PHP",
+          "isCorrect": true
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby",
+          "isCorrect": false
+        },
+        {
+          "answer": "JavaScript",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A concept in object-oriented programming that allows objects of different classes to be treated as objects of a common superclass.",
+      "options": [{
+          "answer": "Polymorphism",
+          "isCorrect": true
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        },
+        {
+          "answer": "Encapsulation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Abstraction",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An open-source object-relational database management system known for its reliability, extensibility, and compliance with SQL standards.",
+      "options": [{
+          "answer": "PostgreSQL",
+          "isCorrect": true
+        },
+        {
+          "answer": "MySQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "Oracle Database",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL Server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of rules and standards that govern the format and transmission of data between two or more devices.",
+      "options": [{
+          "answer": "Protocol",
+          "isCorrect": true
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Framework",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A versatile programming language known for its simplicity and readability, widely used for web development, scientific computing, data analysis, artificial intelligence, and more.",
+      "options": [{
+          "answer": "Python",
+          "isCorrect": true
+        },
+        {
+          "answer": "Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "C++",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A data structure that follows the FIFO (First-In-First-Out) principle.",
+      "options": [{
+          "answer": "Queue",
+          "isCorrect": true
+        },
+        {
+          "answer": "Stack",
+          "isCorrect": false
+        },
+        {
+          "answer": "Heap",
+          "isCorrect": false
+        },
+        {
+          "answer": "Tree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of computer memory that allows data to be accessed in any order with a constant access time.",
+      "options": [{
+          "answer": "RAM (Random Access Memory)",
+          "isCorrect": true
+        },
+        {
+          "answer": "ROM (Read-Only Memory)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cache",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hard disk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A popular JavaScript library for building user interfaces.",
+      "options": [{
+          "answer": "React",
+          "isCorrect": true
+        },
+        {
+          "answer": "Angular",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vue.js",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ember.js",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming technique in which a function calls itself to solve a problem by dividing it into smaller subproblems.",
+      "options": [{
+          "answer": "Recursion",
+          "isCorrect": true
+        },
+        {
+          "answer": "Iteration",
+          "isCorrect": false
+        },
+        {
+          "answer": "Enumeration",
+          "isCorrect": false
+        },
+        {
+          "answer": "Iteration",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of restructuring existing code or software to improve its internal structure, without changing its external behavior.",
+      "options": [{
+          "answer": "Refactoring",
+          "isCorrect": true
+        },
+        {
+          "answer": "Debugging",
+          "isCorrect": false
+        },
+        {
+          "answer": "Optimizing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sequence of characters that defines a search pattern, used for matching or manipulating strings.",
+      "options": [{
+          "answer": "Regular expression",
+          "isCorrect": true
+        },
+        {
+          "answer": "String literal",
+          "isCorrect": false
+        },
+        {
+          "answer": "String interpolation",
+          "isCorrect": false
+        },
+        {
+          "answer": "String concatenation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An architectural style for designing networked applications, typically used in web services development, that emphasizes scalability, simplicity, and statelessness.",
+      "options": [{
+          "answer": "RESTful API",
+          "isCorrect": true
+        },
+        {
+          "answer": "SOAP API",
+          "isCorrect": false
+        },
+        {
+          "answer": "GraphQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "RPC (Remote Procedure Call)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A statement in a programming language that is used to return a value or result from a function or method.",
+      "options": [{
+          "answer": "Return statement",
+          "isCorrect": true
+        },
+        {
+          "answer": "Break statement",
+          "isCorrect": false
+        },
+        {
+          "answer": "Continue statement",
+          "isCorrect": false
+        },
+        {
+          "answer": "Throw statement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A dynamic, reflective, object-oriented programming language known for its simplicity and productivity.",
+      "options": [{
+          "answer": "Ruby",
+          "isCorrect": true
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "Perl",
+          "isCorrect": false
+        },
+        {
+          "answer": "PHP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An iterative and incremental framework for managing product development, commonly used in agile software development.",
+      "options": [{
+          "answer": "Scrum",
+          "isCorrect": true
+        },
+        {
+          "answer": "Kanban",
+          "isCorrect": false
+        },
+        {
+          "answer": "Waterfall",
+          "isCorrect": false
+        },
+        {
+          "answer": "Lean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of software development tools and libraries that allows the creation of applications for a specific platform or operating system.",
+      "options": [{
+          "answer": "SDK (Software Development Kit)",
+          "isCorrect": true
+        },
+        {
+          "answer": "IDE (Integrated Development Environment)",
+          "isCorrect": false
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CMS (Content Management System)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of testing that focuses on evaluating the security of a system or application by identifying vulnerabilities, weaknesses, and potential threats.",
+      "options": [{
+          "answer": "Security testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Performance testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A computer or device on a network that manages network resources and provides services to clients.",
+      "options": [{
+          "answer": "Server",
+          "isCorrect": true
+        },
+        {
+          "answer": "Client",
+          "isCorrect": false
+        },
+        {
+          "answer": "Router",
+          "isCorrect": false
+        },
+        {
+          "answer": "Switch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An architectural style for designing software applications as a collection of loosely coupled and reusable services.",
+      "options": [{
+          "answer": "Service-oriented architecture (SOA)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Microservices architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Monolithic architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Event-driven architecture",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A design pattern that restricts the instantiation of a class to a single object, ensuring that only one instance of the class exists.",
+      "options": [{
+          "answer": "Singleton",
+          "isCorrect": true
+        },
+        {
+          "answer": "Prototype",
+          "isCorrect": false
+        },
+        {
+          "answer": "Factory",
+          "isCorrect": false
+        },
+        {
+          "answer": "Builder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An algorithm that puts elements of a list in a certain order, such as numerical or lexicographical order.",
+      "options": [{
+          "answer": "Sorting algorithm",
+          "isCorrect": true
+        },
+        {
+          "answer": "Searching algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hashing algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Compression algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A standard language for interacting with relational databases, used for managing, manipulating, and querying data.",
+      "options": [{
+          "answer": "SQL (Structured Query Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "GraphQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "ORM (Object-Relational Mapping)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A linear data structure that follows the LIFO (Last-In-First-Out) principle.",
+      "options": [{
+          "answer": "Stack",
+          "isCorrect": true
+        },
+        {
+          "answer": "Queue",
+          "isCorrect": false
+        },
+        {
+          "answer": "Heap",
+          "isCorrect": false
+        },
+        {
+          "answer": "Linked list",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of analyzing source code or compiled code to identify and report potential issues, bugs, or code smells.",
+      "options": [{
+          "answer": "Static analysis",
+          "isCorrect": true
+        },
+        {
+          "answer": "Dynamic analysis",
+          "isCorrect": false
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sequence of characters.",
+      "options": [{
+          "answer": "String",
+          "isCorrect": true
+        },
+        {
+          "answer": "Character",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Boolean",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A user-defined composite data type in some programming languages.",
+      "options": [{
+          "answer": "Struct",
+          "isCorrect": true
+        },
+        {
+          "answer": "Class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interface",
+          "isCorrect": false
+        },
+        {
+          "answer": "Enum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A named sequence of instructions that performs a specific task and can be invoked (called) from other parts of a program.",
+      "options": [{
+          "answer": "Subroutine",
+          "isCorrect": true
+        },
+        {
+          "answer": "Function",
+          "isCorrect": false
+        },
+        {
+          "answer": "Method",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The coordination of events to operate in a controlled manner, typically to prevent race conditions and ensure thread safety.",
+      "options": [{
+          "answer": "Synchronization",
+          "isCorrect": true
+        },
+        {
+          "answer": "Serialization",
+          "isCorrect": false
+        },
+        {
+          "answer": "Parallelization",
+          "isCorrect": false
+        },
+        {
+          "answer": "Asynchronization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The set of rules and structure that define the combinations of symbols that are considered to be correctly structured programs or expressions in a programming language.",
+      "options": [{
+          "answer": "Syntax",
+          "isCorrect": true
+        },
+        {
+          "answer": "Semantics",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pragmatics",
+          "isCorrect": false
+        },
+        {
+          "answer": "Grammar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of protocols that provides reliable and efficient communication between network devices over an IP network.",
+      "options": [{
+          "answer": "TCP/IP (Transmission Control Protocol/Internet Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "UDP (User Datagram Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "HTTP (Hypertext Transfer Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "FTP (File Transfer Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A specific set of conditions or variables under which a tester will determine whether a system or application satisfies the requirements or works correctly.",
+      "options": [{
+          "answer": "Test case",
+          "isCorrect": true
+        },
+        {
+          "answer": "Test plan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test script",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test suite",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of evaluating a system or component by manual or automated means to verify that it satisfies specified requirements.",
+      "options": [{
+          "answer": "Testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Debugging",
+          "isCorrect": false
+        },
+        {
+          "answer": "Quality assurance",
+          "isCorrect": false
+        },
+        {
+          "answer": "Validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A separate flow of execution within a program, allowing multiple tasks to be performed concurrently.",
+      "options": [{
+          "answer": "Thread",
+          "isCorrect": true
+        },
+        {
+          "answer": "Process",
+          "isCorrect": false
+        },
+        {
+          "answer": "Task",
+          "isCorrect": false
+        },
+        {
+          "answer": "Coroutine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A strongly typed superset of JavaScript that compiles to plain JavaScript.",
+      "options": [{
+          "answer": "TypeScript",
+          "isCorrect": true
+        },
+        {
+          "answer": "CoffeeScript",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dart",
+          "isCorrect": false
+        },
+        {
+          "answer": "Flow",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The visual part of a computer program or website with which a user interacts.",
+      "options": [{
+          "answer": "UI (User Interface)",
+          "isCorrect": true
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CLI (Command-line Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "UX (User Experience)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems.",
+      "options": [{
+          "answer": "Unicode",
+          "isCorrect": true
+        },
+        {
+          "answer": "ASCII (American Standard Code for Information Interchange)",
+          "isCorrect": false
+        },
+        {
+          "answer": "UTF-8 (Unicode Transformation Format)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ISO-8859-1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A family of operating systems that are Unix-like and based on the original Unix system.",
+      "options": [{
+          "answer": "UNIX",
+          "isCorrect": true
+        },
+        {
+          "answer": "Linux",
+          "isCorrect": false
+        },
+        {
+          "answer": "Windows",
+          "isCorrect": false
+        },
+        {
+          "answer": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A standardized general-purpose modeling language for specifying, visualizing, constructing, and documenting the artifacts of a software system.",
+      "options": [{
+          "answer": "UML (Unified Modeling Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "ER (Entity-Relationship) diagram",
+          "isCorrect": false
+        },
+        {
+          "answer": "DFD (Data Flow Diagram)",
+          "isCorrect": false
+        },
+        {
+          "answer": "BPMN (Business Process Model and Notation)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A string of characters that identifies the location of a resource on the internet.",
+      "options": [{
+          "answer": "URL (Uniform Resource Locator)",
+          "isCorrect": true
+        },
+        {
+          "answer": "URI (Uniform Resource Identifier)",
+          "isCorrect": false
+        },
+        {
+          "answer": "URN (Uniform Resource Name)",
+          "isCorrect": false
+        },
+        {
+          "answer": "HTTP (Hypertext Transfer Protocol)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A named storage location in a program that can hold a value, which can be modified during the execution of the program.",
+      "options": [{
+          "answer": "Variable",
+          "isCorrect": true
+        },
+        {
+          "answer": "Constant",
+          "isCorrect": false
+        },
+        {
+          "answer": "Attribute",
+          "isCorrect": false
+        },
+        {
+          "answer": "Property",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The management of changes to documents, computer programs, large web sites, and other collections of information.",
+      "options": [{
+          "answer": "Version control",
+          "isCorrect": true
+        },
+        {
+          "answer": "Configuration management",
+          "isCorrect": false
+        },
+        {
+          "answer": "Change management",
+          "isCorrect": false
+        },
+        {
+          "answer": "Source control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software program or emulation of a physical machine that runs programs like a physical computer.",
+      "options": [{
+          "answer": "Virtual machine",
+          "isCorrect": true
+        },
+        {
+          "answer": "Container",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hypervisor",
+          "isCorrect": false
+        },
+        {
+          "answer": "Emulator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The creation or maintenance of applications that run in a web browser or on a web server.",
+      "options": [{
+          "answer": "Web development",
+          "isCorrect": true
+        },
+        {
+          "answer": "Mobile app development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Desktop app development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Game development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A markup language used for describing the structure and presentation of web pages.",
+      "options": [{
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CSS (Cascading Style Sheets)",
+          "isCorrect": false
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A markup language designed for storing and transporting data.",
+      "options": [{
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "YAML (YAML Ain't Markup Language)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A human-readable data serialization format commonly used for configuration files and data exchange between languages with different data structures.",
+      "options": [{
+          "answer": "YAML (YAML Ain't Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CSV (Comma-Separated Values)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of reducing complex or abstract ideas to simpler representations, models, or concepts.",
+      "options": [{
+          "answer": "Abstraction",
+          "isCorrect": true
+        },
+        {
+          "answer": "Encapsulation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The evaluation of a product or system at the end of the development process to determine whether it satisfies specified requirements.",
+      "options": [{
+          "answer": "Validation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Verification",
+          "isCorrect": false
+        },
+        {
+          "answer": "Testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Quality assurance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A testing technique where the tester has complete knowledge of the internal workings of the item being tested.",
+      "options": [{
+          "answer": "White box testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Black box testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gray box testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Glass box testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software testing technique in which the internal workings of the item being tested are unknown to the tester.",
+      "options": [{
+          "answer": "Black box testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "White box testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Gray box testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Clear box testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A methodology or approach to software development that emphasizes collaboration, iterative development, and flexibility in responding to change.",
+      "options": [{
+          "answer": "Agile",
+          "isCorrect": true
+        },
+        {
+          "answer": "Waterfall",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scrum",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kanban",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A document that describes how a software product should behave in various scenarios or conditions.",
+      "options": [{
+          "answer": "Test case",
+          "isCorrect": true
+        },
+        {
+          "answer": "Test plan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test script",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test scenario",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A security testing technique that determines whether an application is susceptible to attacks that may compromise its security.",
+      "options": [{
+          "answer": "Security testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Penetration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vulnerability scanning",
+          "isCorrect": false
+        },
+        {
+          "answer": "Risk assessment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A specialized server computer used to store and manage data and serve it to other computers over a network.",
+      "options": [{
+          "answer": "Database server",
+          "isCorrect": true
+        },
+        {
+          "answer": "Application server",
+          "isCorrect": false
+        },
+        {
+          "answer": "Web server",
+          "isCorrect": false
+        },
+        {
+          "answer": "File server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An architectural style for building software systems that rely on a collection of loosely coupled services to support business processes.",
+      "options": [{
+          "answer": "Service-oriented architecture (SOA)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Microservices architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Event-driven architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Monolithic architecture",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A design pattern that restricts the instantiation of a class to a single instance and provides a global point of access to it.",
+      "options": [{
+          "answer": "Singleton",
+          "isCorrect": true
+        },
+        {
+          "answer": "Factory",
+          "isCorrect": false
+        },
+        {
+          "answer": "Prototype",
+          "isCorrect": false
+        },
+        {
+          "answer": "Builder",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sorting algorithm that works by repeatedly dividing the unsorted list into smaller sublists and then merging them in the correct order.",
+      "options": [{
+          "answer": "Merge sort",
+          "isCorrect": true
+        },
+        {
+          "answer": "Quick sort",
+          "isCorrect": false
+        },
+        {
+          "answer": "Insertion sort",
+          "isCorrect": false
+        },
+        {
+          "answer": "Selection sort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A domain-specific language used for managing and querying relational databases.",
+      "options": [{
+          "answer": "SQL (Structured Query Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "NoSQL",
+          "isCorrect": false
+        },
+        {
+          "answer": "PL/SQL (Procedural Language/Structured Query Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "DDL (Data Definition Language)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A linear data structure in which elements are added and removed from the same end, often referred to as the top.",
+      "options": [{
+          "answer": "Stack",
+          "isCorrect": true
+        },
+        {
+          "answer": "Queue",
+          "isCorrect": false
+        },
+        {
+          "answer": "Array",
+          "isCorrect": false
+        },
+        {
+          "answer": "LinkedList",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of analyzing computer software in order to identify coding errors, security vulnerabilities, and other issues.",
+      "options": [{
+          "answer": "Static analysis",
+          "isCorrect": true
+        },
+        {
+          "answer": "Dynamic analysis",
+          "isCorrect": false
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sequence of characters.",
+      "options": [{
+          "answer": "String",
+          "isCorrect": true
+        },
+        {
+          "answer": "Character",
+          "isCorrect": false
+        },
+        {
+          "answer": "Text",
+          "isCorrect": false
+        },
+        {
+          "answer": "Word",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A composite data type that groups together zero or more values with different types.",
+      "options": [{
+          "answer": "Struct",
+          "isCorrect": true
+        },
+        {
+          "answer": "Class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Union",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sequence of program instructions that performs a specific task, packaged as a unit.",
+      "options": [{
+          "answer": "Subroutine",
+          "isCorrect": true
+        },
+        {
+          "answer": "Function",
+          "isCorrect": false
+        },
+        {
+          "answer": "Method",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The coordination of events to operate in a synchronized manner, especially in multi-threaded programs.",
+      "options": [{
+          "answer": "Synchronization",
+          "isCorrect": true
+        },
+        {
+          "answer": "Parallelism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Concurrency",
+          "isCorrect": false
+        },
+        {
+          "answer": "Asynchronization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The set of rules that define the combinations of symbols that are considered to be correctly structured statements or expressions in a programming language.",
+      "options": [{
+          "answer": "Syntax",
+          "isCorrect": true
+        },
+        {
+          "answer": "Semantics",
+          "isCorrect": false
+        },
+        {
+          "answer": "Grammar",
+          "isCorrect": false
+        },
+        {
+          "answer": "Style",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of protocols that allows computers to communicate over networks.",
+      "options": [{
+          "answer": "TCP/IP (Transmission Control Protocol/Internet Protocol)",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTTP (Hypertext Transfer Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "UDP (User Datagram Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "IPX/SPX (Internetwork Packet Exchange/Sequenced Packet Exchange)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of conditions or variables under which a tester will determine if a system under test satisfies requirements or works correctly.",
+      "options": [{
+          "answer": "Test case",
+          "isCorrect": true
+        },
+        {
+          "answer": "Test scenario",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test plan",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test suite",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of evaluating a system or component with the intent to find whether it satisfies the specified requirements or not.",
+      "options": [{
+          "answer": "Testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Debugging",
+          "isCorrect": false
+        },
+        {
+          "answer": "Verification",
+          "isCorrect": false
+        },
+        {
+          "answer": "Validation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A sequence of instructions within a process that can be scheduled and executed independently by a computer's operating system.",
+      "options": [{
+          "answer": "Thread",
+          "isCorrect": true
+        },
+        {
+          "answer": "Process",
+          "isCorrect": false
+        },
+        {
+          "answer": "Coroutine",
+          "isCorrect": false
+        },
+        {
+          "answer": "Task",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming language that is a typed superset of JavaScript, which compiles to plain JavaScript.",
+      "options": [{
+          "answer": "TypeScript",
+          "isCorrect": true
+        },
+        {
+          "answer": "JavaScript++",
+          "isCorrect": false
+        },
+        {
+          "answer": "ES6",
+          "isCorrect": false
+        },
+        {
+          "answer": "Flow",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The visual and interactive part of a software application or system that allows users to interact with it.",
+      "options": [{
+          "answer": "UI (User Interface)",
+          "isCorrect": true
+        },
+        {
+          "answer": "UX (User Experience)",
+          "isCorrect": false
+        },
+        {
+          "answer": "GUI (Graphical User Interface)",
+          "isCorrect": false
+        },
+        {
+          "answer": "API (Application Programming Interface)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A universal character encoding standard that aims to provide a unique numeric value for every character across all writing systems and languages.",
+      "options": [{
+          "answer": "Unicode",
+          "isCorrect": true
+        },
+        {
+          "answer": "ASCII (American Standard Code for Information Interchange)",
+          "isCorrect": false
+        },
+        {
+          "answer": "UTF-8",
+          "isCorrect": false
+        },
+        {
+          "answer": "ISO-8859-1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix.",
+      "options": [{
+          "answer": "UNIX",
+          "isCorrect": true
+        },
+        {
+          "answer": "Linux",
+          "isCorrect": false
+        },
+        {
+          "answer": "Windows",
+          "isCorrect": false
+        },
+        {
+          "answer": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A standardized modeling language used in software engineering to visually represent systems, structures, behaviors, and interactions of software systems.",
+      "options": [{
+          "answer": "UML (Unified Modeling Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "ERD (Entity-Relationship Diagram)",
+          "isCorrect": false
+        },
+        {
+          "answer": "BPMN (Business Process Model and Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "DFD (Data Flow Diagram)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A string of characters that identifies the location of a resource on the internet.",
+      "options": [{
+          "answer": "URL (Uniform Resource Locator)",
+          "isCorrect": true
+        },
+        {
+          "answer": "URI (Uniform Resource Identifier)",
+          "isCorrect": false
+        },
+        {
+          "answer": "URN (Uniform Resource Name)",
+          "isCorrect": false
+        },
+        {
+          "answer": "URN (Uniform Resource Number)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A named storage location in computer memory that can hold a value, which can be modified during the program execution.",
+      "options": [{
+          "answer": "Variable",
+          "isCorrect": true
+        },
+        {
+          "answer": "Constant",
+          "isCorrect": false
+        },
+        {
+          "answer": "Property",
+          "isCorrect": false
+        },
+        {
+          "answer": "Attribute",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The management of changes to documents, source code, or other collections of information, ensuring that different versions are controlled and tracked.",
+      "options": [{
+          "answer": "Version control",
+          "isCorrect": true
+        },
+        {
+          "answer": "Change management",
+          "isCorrect": false
+        },
+        {
+          "answer": "Configuration management",
+          "isCorrect": false
+        },
+        {
+          "answer": "Source control",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software implementation that behaves like a physical computer and runs programs as if they were executing on a real computer.",
+      "options": [{
+          "answer": "Virtual machine",
+          "isCorrect": true
+        },
+        {
+          "answer": "Container",
+          "isCorrect": false
+        },
+        {
+          "answer": "Simulator",
+          "isCorrect": false
+        },
+        {
+          "answer": "Emulator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An application or program that runs on a web browser and is accessed over a network, typically the internet.",
+      "options": [{
+          "answer": "Web application",
+          "isCorrect": true
+        },
+        {
+          "answer": "Desktop application",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mobile application",
+          "isCorrect": false
+        },
+        {
+          "answer": "Embedded application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of designing, creating, and maintaining websites and web applications.",
+      "options": [{
+          "answer": "Web development",
+          "isCorrect": true
+        },
+        {
+          "answer": "Software development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mobile app development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Game development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+      "options": [{
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "HTML (Hypertext Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "YAML (YAML Ain't Markup Language)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A human-readable data serialization language commonly used for configuration files and data exchange between languages with different data structures.",
+      "options": [{
+          "answer": "YAML (YAML Ain't Markup Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "JSON (JavaScript Object Notation)",
+          "isCorrect": false
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CSV (Comma-Separated Values)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A concept in object-oriented programming that focuses on representing the essential characteristics of an object, while hiding unnecessary details.",
+      "options": [{
+          "answer": "Abstraction",
+          "isCorrect": true
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Encapsulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of evaluating a software application or system's ease of use and accessibility for people with disabilities.",
+      "options": [{
+          "answer": "Accessibility testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Usability testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Compatibility testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Performance testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A scripting language primarily used for web development and the development of Adobe Flash content.",
+      "options": [{
+          "answer": "ActionScript",
+          "isCorrect": true
+        },
+        {
+          "answer": "JavaScript",
+          "isCorrect": false
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of technologies developed by Microsoft that enables software components to interact with one another in a networked environment.",
+      "options": [{
+          "answer": "ActiveX",
+          "isCorrect": true
+        },
+        {
+          "answer": "COM (Component Object Model)",
+          "isCorrect": false
+        },
+        {
+          "answer": "OLE (Object Linking and Embedding)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CORBA (Common Object Request Broker Architecture)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An informal and improvisational approach to software testing, where tests are designed and executed spontaneously.",
+      "options": [{
+          "answer": "Ad hoc testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Exploratory testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Regression testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Stress testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of guiding values and principles for agile software development, emphasizing collaboration, adaptability, and continuous improvement.",
+      "options": [{
+          "answer": "Agile manifesto",
+          "isCorrect": true
+        },
+        {
+          "answer": "Waterfall model",
+          "isCorrect": false
+        },
+        {
+          "answer": "V-model",
+          "isCorrect": false
+        },
+        {
+          "answer": "Spiral model",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A set of web development techniques that allow web applications to send and receive data asynchronously, typically using JSON or XML.",
+      "options": [{
+          "answer": "AJAX (Asynchronous JavaScript and XML)",
+          "isCorrect": true
+        },
+        {
+          "answer": "REST (Representational State Transfer)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SOAP (Simple Object Access Protocol)",
+          "isCorrect": false
+        },
+        {
+          "answer": "GraphQL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The initial phase of software testing where a software product is tested by the developers before it is released to external users.",
+      "options": [{
+          "answer": "Alpha testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Beta testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Acceptance testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A cloud computing platform provided by Amazon that offers a broad set of services and infrastructure to build, deploy, and manage applications and services.",
+      "options": [{
+          "answer": "Amazon Web Services (AWS)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Microsoft Azure",
+          "isCorrect": false
+        },
+        {
+          "answer": "Google Cloud Platform (GCP)",
+          "isCorrect": false
+        },
+        {
+          "answer": "IBM Cloud",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of discovering, interpreting, and communicating meaningful patterns in data.",
+      "options": [{
+          "answer": "Analytics",
+          "isCorrect": true
+        },
+        {
+          "answer": "Business intelligence",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data mining",
+          "isCorrect": false
+        },
+        {
+          "answer": "Machine learning",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An open-source operating system primarily used on mobile devices, based on the Linux kernel.",
+      "options": [{
+          "answer": "Android",
+          "isCorrect": true
+        },
+        {
+          "answer": "iOS",
+          "isCorrect": false
+        },
+        {
+          "answer": "Windows Mobile",
+          "isCorrect": false
+        },
+        {
+          "answer": "BlackBerry OS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A standardized programming language that follows the ANSI C standard.",
+      "options": [{
+          "answer": "ANSI C",
+          "isCorrect": true
+        },
+        {
+          "answer": "C++",
+          "isCorrect": false
+        },
+        {
+          "answer": "C#",
+          "isCorrect": false
+        },
+        {
+          "answer": "Java",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Documentation that provides information about the programming interfaces of a software component or system.",
+      "options": [{
+          "answer": "API documentation",
+          "isCorrect": true
+        },
+        {
+          "answer": "User documentation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Technical documentation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Installation documentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software framework that provides the necessary infrastructure and services to host and manage web applications.",
+      "options": [{
+          "answer": "Application server",
+          "isCorrect": true
+        },
+        {
+          "answer": "Web server",
+          "isCorrect": false
+        },
+        {
+          "answer": "Database server",
+          "isCorrect": false
+        },
+        {
+          "answer": "File server",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A value or data passed to a function, procedure, or command-line program.",
+      "options": [{
+          "answer": "Argument",
+          "isCorrect": true
+        },
+        {
+          "answer": "Parameter",
+          "isCorrect": false
+        },
+        {
+          "answer": "Variable",
+          "isCorrect": false
+        },
+        {
+          "answer": "Input",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming paradigm that aims to increase modularity, reusability, and maintainability by separating cross-cutting concerns into distinct modules.",
+      "options": [{
+          "answer": "Aspect-oriented programming (AOP)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Object-oriented programming (OOP)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Functional programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedural programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software testing technique where specific conditions or properties of a program are checked to ensure they hold true.",
+      "options": [{
+          "answer": "Assertions testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "System testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A low-level programming language that closely resembles the machine language of a specific computer architecture.",
+      "options": [{
+          "answer": "Assembler",
+          "isCorrect": true
+        },
+        {
+          "answer": "Compiler",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interpreter",
+          "isCorrect": false
+        },
+        {
+          "answer": "Linker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A low-level programming language that uses mnemonics to represent machine instructions.",
+      "options": [{
+          "answer": "Assembly code",
+          "isCorrect": true
+        },
+        {
+          "answer": "Assembly language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Binary code",
+          "isCorrect": false
+        },
+        {
+          "answer": "Machine code",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A statement or predicate that is expected to be true at a particular point in a program's execution.",
+      "options": [{
+          "answer": "Assertion",
+          "isCorrect": true
+        },
+        {
+          "answer": "Condition",
+          "isCorrect": false
+        },
+        {
+          "answer": "Expression",
+          "isCorrect": false
+        },
+        {
+          "answer": "Variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of automatically executing software tasks, typically performed by specialized tools or scripts.",
+      "options": [{
+          "answer": "Automation testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Manual testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Exploratory testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Performance testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software developer who specializes in building and maintaining the server-side components of a web application or website.",
+      "options": [{
+          "answer": "Backend developer",
+          "isCorrect": true
+        },
+        {
+          "answer": "Frontend developer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Full-stack developer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mobile app developer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A class from which other classes are derived, inheriting its properties and methods.",
+      "options": [{
+          "answer": "Base class",
+          "isCorrect": true
+        },
+        {
+          "answer": "Derived class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Abstract class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Interface",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A scripting language primarily used for automating tasks and writing scripts in the Unix/Linux environment.",
+      "options": [{
+          "answer": "Bash scripting",
+          "isCorrect": true
+        },
+        {
+          "answer": "Python scripting",
+          "isCorrect": false
+        },
+        {
+          "answer": "Perl scripting",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby scripting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Set of guidelines, techniques, and programming patterns that represent the most effective ways to write code for a specific programming language or framework.",
+      "options": [{
+          "answer": "Best practices",
+          "isCorrect": true
+        },
+        {
+          "answer": "Design patterns",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code conventions",
+          "isCorrect": false
+        },
+        {
+          "answer": "Coding standards",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A search algorithm that finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.",
+      "options": [{
+          "answer": "Binary search",
+          "isCorrect": true
+        },
+        {
+          "answer": "Linear search",
+          "isCorrect": false
+        },
+        {
+          "answer": "Depth-first search",
+          "isCorrect": false
+        },
+        {
+          "answer": "Breadth-first search",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A tree-like data structure in which each node has at most two children, referred to as the left child and the right child.",
+      "options": [{
+          "answer": "Binary tree",
+          "isCorrect": true
+        },
+        {
+          "answer": "Linked list",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hash table",
+          "isCorrect": false
+        },
+        {
+          "answer": "Graph",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Operations that manipulate individual bits within a byte or other data unit.",
+      "options": [{
+          "answer": "Bitwise operation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Logical operation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Arithmetic operation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Comparison operation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of software testing that focuses on finding vulnerabilities related to incorrect or unexpected handling of memory buffers.",
+      "options": [{
+          "answer": "Buffer overflow",
+          "isCorrect": true
+        },
+        {
+          "answer": "Injection attack",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cross-site scripting (XSS)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SQL injection",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of tracking and managing software bugs or issues from detection to resolution.",
+      "options": [{
+          "answer": "Bug tracking",
+          "isCorrect": true
+        },
+        {
+          "answer": "Version control",
+          "isCorrect": false
+        },
+        {
+          "answer": "Test management",
+          "isCorrect": false
+        },
+        {
+          "answer": "Defect management",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of automating the tasks involved in building, testing, and deploying software.",
+      "options": [{
+          "answer": "Build automation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Continuous integration",
+          "isCorrect": false
+        },
+        {
+          "answer": "Continuous delivery",
+          "isCorrect": false
+        },
+        {
+          "answer": "Deployment automation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An intermediate representation of a program that can be executed by a virtual machine.",
+      "options": [{
+          "answer": "Bytecode",
+          "isCorrect": true
+        },
+        {
+          "answer": "Machine code",
+          "isCorrect": false
+        },
+        {
+          "answer": "Source code",
+          "isCorrect": false
+        },
+        {
+          "answer": "Object code",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming language known for its high-level abstraction and a wide range of applications, developed at Bell Labs in the 1970s.",
+      "options": [{
+          "answer": "C programming language",
+          "isCorrect": true
+        },
+        {
+          "answer": "Java programming language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Python programming language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby programming language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A general-purpose programming language that supports various programming paradigms and is widely used in systems programming and game development.",
+      "options": [{
+          "answer": "C++",
+          "isCorrect": true
+        },
+        {
+          "answer": "C#",
+          "isCorrect": false
+        },
+        {
+          "answer": "Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of high-speed memory used by a computer's processor to store frequently accessed data.",
+      "options": [{
+          "answer": "Cache memory",
+          "isCorrect": true
+        },
+        {
+          "answer": "Random-access memory (RAM)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Hard disk drive (HDD)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Solid-state drive (SSD)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A naming convention in which the first letter of each compound word or phrase is capitalized, except for the first word, which starts with a lowercase letter.",
+      "options": [{
+          "answer": "Camel case",
+          "isCorrect": true
+        },
+        {
+          "answer": "Pascal case",
+          "isCorrect": false
+        },
+        {
+          "answer": "Snake case",
+          "isCorrect": false
+        },
+        {
+          "answer": "Kebab case",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A challenge-response test used to determine whether the user is a human or an automated program.",
+      "options": [{
+          "answer": "CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)",
+          "isCorrect": true
+        },
+        {
+          "answer": "OAuth (Open Authorization)",
+          "isCorrect": false
+        },
+        {
+          "answer": "SAML (Security Assertion Markup Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "JWT (JSON Web Token)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Software tools designed to support one or more activities of the software development process.",
+      "options": [{
+          "answer": "CASE tools (Computer-Aided Software Engineering)",
+          "isCorrect": true
+        },
+        {
+          "answer": "IDE (Integrated Development Environment)",
+          "isCorrect": false
+        },
+        {
+          "answer": "CI/CD tools (Continuous Integration/Continuous Deployment)",
+          "isCorrect": false
+        },
+        {
+          "answer": "ALM tools (Application Lifecycle Management)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A highly scalable and distributed NoSQL database management system known for its ability to handle large amounts of data across multiple commodity servers.",
+      "options": [{
+          "answer": "Cassandra",
+          "isCorrect": true
+        },
+        {
+          "answer": "MongoDB",
+          "isCorrect": false
+        },
+        {
+          "answer": "Redis",
+          "isCorrect": false
+        },
+        {
+          "answer": "Elasticsearch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The combination of continuous development (CD) and continuous integration (CI), which refers to the practice of automatically building, testing, and deploying software changes.",
+      "options": [{
+          "answer": "CD/CI (Continuous Development/Continuous Integration)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Agile development",
+          "isCorrect": false
+        },
+        {
+          "answer": "DevOps",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scrum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A visual representation of the structure and relationships of classes in a system, typically used in object-oriented modeling.",
+      "options": [{
+          "answer": "Class diagram",
+          "isCorrect": true
+        },
+        {
+          "answer": "Sequence diagram",
+          "isCorrect": false
+        },
+        {
+          "answer": "State diagram",
+          "isCorrect": false
+        },
+        {
+          "answer": "Activity diagram",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The practice of writing code that is easy to understand, read, and maintain, often following specific guidelines and principles.",
+      "options": [{
+          "answer": "Clean code",
+          "isCorrect": true
+        },
+        {
+          "answer": "Optimized code",
+          "isCorrect": false
+        },
+        {
+          "answer": "Efficient code",
+          "isCorrect": false
+        },
+        {
+          "answer": "Modular code",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of architecture in which the client-side and server-side components of an application are distributed across different machines.",
+      "options": [{
+          "answer": "Client-server architecture",
+          "isCorrect": true
+        },
+        {
+          "answer": "Peer-to-peer architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Microservices architecture",
+          "isCorrect": false
+        },
+        {
+          "answer": "Monolithic architecture",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A method of storing and accessing data over the Internet instead of locally on a computer or other storage device.",
+      "options": [{
+          "answer": "Cloud storage",
+          "isCorrect": true
+        },
+        {
+          "answer": "Local storage",
+          "isCorrect": false
+        },
+        {
+          "answer": "Distributed storage",
+          "isCorrect": false
+        },
+        {
+          "answer": "Network-attached storage (NAS)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software system that facilitates the creation, modification, and publication of digital content on the web.",
+      "options": [{
+          "answer": "CMS (Content Management System)",
+          "isCorrect": true
+        },
+        {
+          "answer": "CRM (Customer Relationship Management) system",
+          "isCorrect": false
+        },
+        {
+          "answer": "ERP (Enterprise Resource Planning) system",
+          "isCorrect": false
+        },
+        {
+          "answer": "LMS (Learning Management System)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A metric used to measure the extent to which the source code of a program has been tested.",
+      "options": [{
+          "answer": "Code coverage",
+          "isCorrect": true
+        },
+        {
+          "answer": "Code quality",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code complexity",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code duplication",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of reviewing code to identify and correct errors, improve quality, and ensure compliance with coding standards.",
+      "options": [{
+          "answer": "Code review",
+          "isCorrect": true
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "System testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A characteristic or pattern in the source code that may indicate a deeper problem or design flaw.",
+      "options": [{
+          "answer": "Code smell",
+          "isCorrect": true
+        },
+        {
+          "answer": "Code snippet",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code segment",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code block",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A means of interacting with a computer program or system through textual commands entered in a command-line interface.",
+      "options": [{
+          "answer": "Command-line interface (CLI)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Graphical user interface (GUI)",
+          "isCorrect": false
+        },
+        {
+          "answer": "Application programming interface (API)",
+          "isCorrect": false
+        },
+        {
+          "answer": "User interface (UI)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A text or annotation added to a section of code, providing explanatory information or indicating the purpose of the code.",
+      "options": [{
+          "answer": "Comment",
+          "isCorrect": true
+        },
+        {
+          "answer": "Annotation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Documentation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Metadata",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A record of changes made to a repository, typically in version control systems like Git.",
+      "options": [{
+          "answer": "Commit",
+          "isCorrect": true
+        },
+        {
+          "answer": "Push",
+          "isCorrect": false
+        },
+        {
+          "answer": "Pull",
+          "isCorrect": false
+        },
+        {
+          "answer": "Merge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of transforming source code to improve its efficiency, speed, or other characteristics without changing its external behavior.",
+      "options": [{
+          "answer": "Compiler optimization",
+          "isCorrect": true
+        },
+        {
+          "answer": "Code refactoring",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code generation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code obfuscation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The study of the computational resources required to solve a given computational problem, typically measured in terms of time and space complexity.",
+      "options": [{
+          "answer": "Computational complexity",
+          "isCorrect": true
+        },
+        {
+          "answer": "Algorithm complexity",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data complexity",
+          "isCorrect": false
+        },
+        {
+          "answer": "Time complexity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A field of study that focuses on enabling computers to see, interpret, and understand visual data or images.",
+      "options": [{
+          "answer": "Computer vision",
+          "isCorrect": true
+        },
+        {
+          "answer": "Machine learning",
+          "isCorrect": false
+        },
+        {
+          "answer": "Artificial intelligence",
+          "isCorrect": false
+        },
+        {
+          "answer": "Robotics",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming paradigm that allows multiple concurrent threads of execution to share resources and communicate with each other.",
+      "options": [{
+          "answer": "Concurrent programming",
+          "isCorrect": true
+        },
+        {
+          "answer": "Parallel programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Distributed programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Sequential programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software development practice that focuses on delivering software in short cycles, ensuring that it can be released quickly and frequently.",
+      "options": [{
+          "answer": "Continuous delivery",
+          "isCorrect": true
+        },
+        {
+          "answer": "Waterfall development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Incremental development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Spiral development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The practice of merging code changes from multiple contributors into a central repository frequently and regularly.",
+      "options": [{
+          "answer": "Continuous integration",
+          "isCorrect": true
+        },
+        {
+          "answer": "Feature branching",
+          "isCorrect": false
+        },
+        {
+          "answer": "Version control",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code merging",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The flow of execution in a program, determined by the order in which individual statements, instructions, or function calls are executed.",
+      "options": [{
+          "answer": "Control flow",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data flow",
+          "isCorrect": false
+        },
+        {
+          "answer": "Program flow",
+          "isCorrect": false
+        },
+        {
+          "answer": "Execution flow",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "Testing approach that focuses on identifying issues related to concurrent execution of code.",
+      "options": [{
+          "answer": "Concurrency testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Parallel testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Performance testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A piece of data that is stored on a user's computer by a web browser, typically used for session management or tracking.",
+      "options": [{
+          "answer": "Cookie",
+          "isCorrect": true
+        },
+        {
+          "answer": "Cache",
+          "isCorrect": false
+        },
+        {
+          "answer": "Token",
+          "isCorrect": false
+        },
+        {
+          "answer": "Session",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A parallel computing platform and application programming interface (API) model created by NVIDIA for utilizing the power of GPUs.",
+      "options": [{
+          "answer": "CUDA (Compute Unified Device Architecture)",
+          "isCorrect": true
+        },
+        {
+          "answer": "OpenCL",
+          "isCorrect": false
+        },
+        {
+          "answer": "Vulkan",
+          "isCorrect": false
+        },
+        {
+          "answer": "DirectX",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A custom-defined exception that is created to handle specific error conditions in a program.",
+      "options": [{
+          "answer": "Custom exception",
+          "isCorrect": true
+        },
+        {
+          "answer": "Runtime exception",
+          "isCorrect": false
+        },
+        {
+          "answer": "Checked exception",
+          "isCorrect": false
+        },
+        {
+          "answer": "Unhandled exception",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A concept in object-oriented programming that allows hiding the internal implementation details of data and providing only necessary interfaces.",
+      "options": [{
+          "answer": "Data abstraction",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data encapsulation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data inheritance",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of inspecting, transforming, and modeling data to discover useful information, patterns, and relationships.",
+      "options": [{
+          "answer": "Data analysis",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data mining",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data visualization",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data processing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of converting data into a form that cannot be easily understood or accessed by unauthorized parties.",
+      "options": [{
+          "answer": "Data encryption",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data masking",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data hashing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data obfuscation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The assurance that data remains unaltered, complete, and accurate throughout its lifecycle.",
+      "options": [{
+          "answer": "Data integrity",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data consistency",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data availability",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data security",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of discovering patterns and relationships in large datasets to extract useful information.",
+      "options": [{
+          "answer": "Data mining",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data analysis",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data classification",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data visualization",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A way of organizing and storing data in a computer's memory or disk, designed to facilitate efficient access and modification.",
+      "options": [{
+          "answer": "Data structure",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data model",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data format",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data container",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A classification or category of data that determines the possible values and operations that can be performed on it.",
+      "options": [{
+          "answer": "Data type",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data class",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data structure",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data element",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of validating and verifying data to ensure that it conforms to certain rules, constraints, or standards.",
+      "options": [{
+          "answer": "Data validation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Data transformation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data migration",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data cleansing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software system that manages and organizes databases, providing functions for storing, retrieving, and manipulating data.",
+      "options": [{
+          "answer": "Database management system (DBMS)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Database query language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data storage system",
+          "isCorrect": false
+        },
+        {
+          "answer": "Data access layer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A tool or software used by developers to identify and resolve issues or bugs in a program.",
+      "options": [{
+          "answer": "Debugging tool",
+          "isCorrect": true
+        },
+        {
+          "answer": "Code analysis tool",
+          "isCorrect": false
+        },
+        {
+          "answer": "Testing framework",
+          "isCorrect": false
+        },
+        {
+          "answer": "Logging library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A statement in a programming language that declares a variable or constant with a specific data type.",
+      "options": [{
+          "answer": "Declaration statement",
+          "isCorrect": true
+        },
+        {
+          "answer": "Assignment statement",
+          "isCorrect": false
+        },
+        {
+          "answer": "Expression statement",
+          "isCorrect": false
+        },
+        {
+          "answer": "Control statement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming technique that focuses on writing code that anticipates and handles possible errors and exceptions.",
+      "options": [{
+          "answer": "Defensive programming",
+          "isCorrect": true
+        },
+        {
+          "answer": "Offensive programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Agile programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Robust programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A design pattern that allows the injection of dependencies into an object, making it more flexible and easier to test.",
+      "options": [{
+          "answer": "Dependency injection",
+          "isCorrect": true
+        },
+        {
+          "answer": "Inversion of control",
+          "isCorrect": false
+        },
+        {
+          "answer": "Singleton pattern",
+          "isCorrect": false
+        },
+        {
+          "answer": "Factory pattern",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A graph traversal algorithm that explores as far as possible along each branch before backtracking.",
+      "options": [{
+          "answer": "Depth-first search",
+          "isCorrect": true
+        },
+        {
+          "answer": "Breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dijkstra's algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "A* algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A software development approach that emphasizes specifying and enforcing formal contracts between components.",
+      "options": [{
+          "answer": "Design by contract",
+          "isCorrect": true
+        },
+        {
+          "answer": "Test-driven development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Behavior-driven development",
+          "isCorrect": false
+        },
+        {
+          "answer": "Domain-driven design",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A document that describes the design specifications, architecture, and requirements of a software system.",
+      "options": [{
+          "answer": "Design document",
+          "isCorrect": true
+        },
+        {
+          "answer": "Technical documentation",
+          "isCorrect": false
+        },
+        {
+          "answer": "User manual",
+          "isCorrect": false
+        },
+        {
+          "answer": "Functional specification",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A general reusable solution to a commonly occurring problem in software design.",
+      "options": [{
+          "answer": "Design pattern",
+          "isCorrect": true
+        },
+        {
+          "answer": "Architectural pattern",
+          "isCorrect": false
+        },
+        {
+          "answer": "Algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Library",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An application that is run on a desktop or laptop computer, typically with a graphical user interface.",
+      "options": [{
+          "answer": "Desktop application",
+          "isCorrect": true
+        },
+        {
+          "answer": "Web application",
+          "isCorrect": false
+        },
+        {
+          "answer": "Mobile application",
+          "isCorrect": false
+        },
+        {
+          "answer": "Embedded application",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The environment in which software development is carried out, including tools, libraries, and frameworks.",
+      "options": [{
+          "answer": "Development environment",
+          "isCorrect": true
+        },
+        {
+          "answer": "Execution environment",
+          "isCorrect": false
+        },
+        {
+          "answer": "Production environment",
+          "isCorrect": false
+        },
+        {
+          "answer": "Testing environment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A diagram that represents the flow of data within a system, showing how inputs are transformed into outputs.",
+      "options": [{
+          "answer": "DFD (Data Flow Diagram)",
+          "isCorrect": true
+        },
+        {
+          "answer": "UML (Unified Modeling Language) diagram",
+          "isCorrect": false
+        },
+        {
+          "answer": "ER (Entity-Relationship) diagram",
+          "isCorrect": false
+        },
+        {
+          "answer": "Class diagram",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An algorithm for finding the shortest path between nodes in a graph.",
+      "options": [{
+          "answer": "Dijkstra's algorithm",
+          "isCorrect": true
+        },
+        {
+          "answer": "Depth-first search",
+          "isCorrect": false
+        },
+        {
+          "answer": "Breadth-first search",
+          "isCorrect": false
+        },
+        {
+          "answer": "A* algorithm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A hierarchical structure used to organize files and directories in a computer system.",
+      "options": [{
+          "answer": "Directory",
+          "isCorrect": true
+        },
+        {
+          "answer": "File path",
+          "isCorrect": false
+        },
+        {
+          "answer": "Folder",
+          "isCorrect": false
+        },
+        {
+          "answer": "Index",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A model of computation where tasks are divided among multiple computers connected over a network.",
+      "options": [{
+          "answer": "Distributed computing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Parallel computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cloud computing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Cluster computing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A library or module that contains precompiled code and data that can be used by multiple programs.",
+      "options": [{
+          "answer": "DLL (Dynamic Link Library)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Static library",
+          "isCorrect": false
+        },
+        {
+          "answer": "Shared library",
+          "isCorrect": false
+        },
+        {
+          "answer": "Executable file",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The unique name that identifies a website on the Internet.",
+      "options": [{
+          "answer": "Domain name",
+          "isCorrect": true
+        },
+        {
+          "answer": "URL (Uniform Resource Locator)",
+          "isCorrect": false
+        },
+        {
+          "answer": "IP address",
+          "isCorrect": false
+        },
+        {
+          "answer": "DNS (Domain Name System)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A legacy operating system that was widely used on IBM-compatible personal computers.",
+      "options": [{
+          "answer": "DOS (Disk Operating System)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Windows",
+          "isCorrect": false
+        },
+        {
+          "answer": "Linux",
+          "isCorrect": false
+        },
+        {
+          "answer": "macOS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming language specifically designed to address the needs of a particular domain or problem domain.",
+      "options": [{
+          "answer": "DSL (Domain-Specific Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "General-purpose language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scripting language",
+          "isCorrect": false
+        },
+        {
+          "answer": "Markup language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming language feature that allows objects of different types to be treated as if they share a common interface.",
+      "options": [{
+          "answer": "Duck typing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Static typing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Dynamic typing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A method of analyzing software by executing it with sample inputs to observe its behavior.",
+      "options": [{
+          "answer": "Dynamic analysis",
+          "isCorrect": true
+        },
+        {
+          "answer": "Static analysis",
+          "isCorrect": false
+        },
+        {
+          "answer": "Code review",
+          "isCorrect": false
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming technique that involves breaking down a complex problem into simpler, overlapping subproblems.",
+      "options": [{
+          "answer": "Dynamic programming",
+          "isCorrect": true
+        },
+        {
+          "answer": "Divide and conquer",
+          "isCorrect": false
+        },
+        {
+          "answer": "Greedy algorithm",
+          "isCorrect": false
+        },
+        {
+          "answer": "Backtracking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An integrated development environment (IDE) for Java development, widely used for Java programming.",
+      "options": [{
+          "answer": "Eclipse IDE",
+          "isCorrect": true
+        },
+        {
+          "answer": "Visual Studio Code",
+          "isCorrect": false
+        },
+        {
+          "answer": "IntelliJ IDEA",
+          "isCorrect": false
+        },
+        {
+          "answer": "NetBeans",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "An unusual or unexpected input or situation that tests the limits or boundaries of a system.",
+      "options": [{
+          "answer": "Edge case",
+          "isCorrect": true
+        },
+        {
+          "answer": "Boundary case",
+          "isCorrect": false
+        },
+        {
+          "answer": "Corner case",
+          "isCorrect": false
+        },
+        {
+          "answer": "Exceptional case",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The process of estimating the time, effort, and resources required to complete a software development project.",
+      "options": [{
+          "answer": "Effort estimation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Task estimation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Schedule estimation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Resource estimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A functional, concurrent, and scalable programming language built on the Erlang virtual machine.",
+      "options": [{
+          "answer": "Elixir",
+          "isCorrect": true
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "Ruby",
+          "isCorrect": false
+        },
+        {
+          "answer": "Scala",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The bundling of data and methods that manipulate the data, hiding the implementation details from the outside world.",
+      "options": [{
+          "answer": "Encapsulation",
+          "isCorrect": true
+        },
+        {
+          "answer": "Abstraction",
+          "isCorrect": false
+        },
+        {
+          "answer": "Polymorphism",
+          "isCorrect": false
+        },
+        {
+          "answer": "Inheritance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A testing approach that evaluates the ability of a system to handle a complete end-to-end process or workflow.",
+      "options": [{
+          "answer": "End-to-end testing",
+          "isCorrect": true
+        },
+        {
+          "answer": "Integration testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "Unit testing",
+          "isCorrect": false
+        },
+        {
+          "answer": "System testing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A type of data that represents a fixed set of values, often represented as named constants.",
+      "options": [{
+          "answer": "Enumerated type",
+          "isCorrect": true
+        },
+        {
+          "answer": "Primitive type",
+          "isCorrect": false
+        },
+        {
+          "answer": "Reference type",
+          "isCorrect": false
+        },
+        {
+          "answer": "Composite type",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data.",
+      "options": [{
+          "answer": "Functional programming",
+          "isCorrect": true
+        },
+        {
+          "answer": "Imperative programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Object-oriented programming",
+          "isCorrect": false
+        },
+        {
+          "answer": "Procedural programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "The automatic management of memory in a programming language, where the system deallocates memory that is no longer needed.",
+      "options": [{
+          "answer": "Garbage collection",
+          "isCorrect": true
+        },
+        {
+          "answer": "Memory allocation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Memory deallocation",
+          "isCorrect": false
+        },
+        {
+          "answer": "Memory segmentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A web-based DevOps platform that provides Git repository management, continuous integration, and continuous deployment.",
+      "options": [{
+          "answer": "GitLab",
+          "isCorrect": true
+        },
+        {
+          "answer": "GitHub",
+          "isCorrect": false
+        },
+        {
+          "answer": "Bitbucket",
+          "isCorrect": false
+        },
+        {
+          "answer": "GitKraken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A variable that is accessible and modifiable throughout the entire program.",
+      "options": [{
+          "answer": "Global variable",
+          "isCorrect": true
+        },
+        {
+          "answer": "Local variable",
+          "isCorrect": false
+        },
+        {
+          "answer": "Instance variable",
+          "isCorrect": false
+        },
+        {
+          "answer": "Class variable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A statically-typed, compiled programming language designed for building highly concurrent and efficient software.",
+      "options": [{
+          "answer": "Go (Golang)",
+          "isCorrect": true
+        },
+        {
+          "answer": "Python",
+          "isCorrect": false
+        },
+        {
+          "answer": "Java",
+          "isCorrect": false
+        },
+        {
+          "answer": "C++",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "explanation": "A query language for APIs and a runtime for executing those queries with existing data.",
+      "options": [{
+          "answer": "GraphQL (Graph Query Language)",
+          "isCorrect": true
+        },
+        {
+          "answer": "SQL (Structured Query Language)",
+          "isCorrect": false
+        },
+        {
+          "answer": "REST (Representational State Transfer)",
+          "isCorrect": false
+        },
+        {
+          "answer": "XML (eXtensible Markup Language)",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

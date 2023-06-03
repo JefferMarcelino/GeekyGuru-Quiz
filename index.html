@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Quiz Game</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta name="theme-color" content="#3498db">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="icons/icon-192x192.png">
+</head>
+
+<body>
+  <section>
+    <h1>GeekyGuru Quiz</h1>
+
+    <div class="timer" id="timer">
+      Time Left: 30
+    </div>
+
+    <p id="score">Score: 0</p>
+    <div class="container">
+      <h2 id="question"></h2>
+      <ul id="options"></ul>
+    </div>
+
+    <p id="explanation"></p>
+  </section>
+
+  <script src="script.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js')
+      .then(registration => console.log('Service Worker registered'))
+      .catch(error => console.log('Service Worker registration failed:', error));
+    }
+  </script>
+</body>
+
+</html>
